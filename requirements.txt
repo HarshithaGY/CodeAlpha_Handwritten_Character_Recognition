@@ -1,0 +1,8 @@
+
+streamlit
+tensorflow
+numpy
+Pillow
+streamlit-drawable-canvas==0.9.3
+matplotlib
+seaborn
